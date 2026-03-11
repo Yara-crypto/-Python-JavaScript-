@@ -116,7 +116,7 @@ print(average_price(orders))
 
 不同平台 API 文档示例：
 
-OKX API
+OKX API（https://www.promoohubly.com/zh-hans/join?channelId=ACE531305）
 
 Binance API
 
